@@ -16,4 +16,13 @@ This project explores and compares the linear machine learning classifiers we we
 | Native Country     |    Capital Loss              |
 
 
+##Multi-Layer Perceptron (MLP) Project
+
+
+
+
+
+
+
+
 
