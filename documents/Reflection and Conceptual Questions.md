@@ -15,8 +15,7 @@ It is important to note that the model was evaluated on a 30% hold-out test set 
 
 ---
 
-## What ethical concerns might arise from deploying models trained on these
-datasets?
+## What ethical concerns might arise from deploying models trained on these datasets?
 
 The dataset contains sensitive attributes such as race, sex, and marital status.  
 A key concern is that models could learn biased or unfair patterns toward certain groups.  
