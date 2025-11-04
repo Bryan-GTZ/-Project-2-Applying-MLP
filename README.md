@@ -56,8 +56,11 @@ e) Predict response variable for validation inputs
 
 * Applied final model to validation dataset
 
-d) Conceptual Questions 
-* They are in documents
+## Reflection and Conceptual Questions
+* Why did you choose the specific architecture (e.g., number of layers, activation functions) for each model?
+* How did you monitor and mitigate overfitting in your models?
+* What ethical concerns might arise from deploying models trained on these datasets?
+* Why are activation functions necessary in neural networks
   
 
 
