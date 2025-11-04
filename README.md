@@ -16,7 +16,21 @@ This project explores and compares the linear machine learning classifiers we we
 | Native Country     |    Capital Loss              |
 
 
-##Multi-Layer Perceptron (MLP) Project
+## Multi-Layer Perceptron (MLP) Project
+
+### Part 1: MLP
+
+a) load and preprocesses the dataset
+* Loaded project_adult.csv and project_validation_inputs.csv, replacing ? with nulls
+* Target variable income converted to binary (1 = >50K, 0 = <=50K)
+* Used a ColumnTransformer
+* Ensured all missing values were handled
+
+b) Train and test MLP
+*
+
+
+
 
 
 
