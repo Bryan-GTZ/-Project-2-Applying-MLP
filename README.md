@@ -69,8 +69,8 @@ d) Conceptual Questions
 
 
 ## Location of Repository
-- **Documents** -> Reflection_and_Conceptual_Questions.md, Group 16 Slides - Final.pptx
-- **Notebook** -> Group_16_sklearn_perceptron_adaline.ipynb
+- **Documents** -> Reflection_and_Conceptual.md, Group 16 Slides - Final.pptx
+- **Notebook** -> MLProject2.ipynb
 - **ML_output** -> Output prediction files for MLP
 - **Data_needed** -> The two files needed to run the notebook, (`project_adult.csv`) and (`project_validation_inputs.csv`)
 
