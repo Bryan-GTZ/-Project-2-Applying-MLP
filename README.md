@@ -57,7 +57,7 @@ e) Predict response variable for validation inputs
 * Applied final model to validation dataset
 
 d) Conceptual Questions 
-* They are in docs
+* They are in documents
   
 
 
