@@ -72,7 +72,8 @@ e) Predict response variable for validation inputs
 
 
 ## Location of Repository
-- **Documents** -> Reflection_and_Conceptual.md, Group 16 Slides - Final.pptx
+- **Documents** -> Reflection_and_Conceptual.md, Project 2 Presentation (3).pptx
+
 - **Notebook** -> MLProject2.ipynb
 - **ML_output** -> Output prediction files for MLP
 - **Data_needed** -> The two files needed to run the notebook, (`project_adult.csv`) and (`project_validation_inputs.csv`)
